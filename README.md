@@ -2,11 +2,11 @@
 
 💻 Software Developer focused on backend development.
 
-I work with enterprise systems, APIs and integrations using Java and Spring Boot.
+I work with enterprise systems, APIs and integrations using **Java and Spring Boot**.
 
 Currently building scalable backend solutions and SaaS products.
 
-Founder of **@HinnovationBR**, developing software solutions and web platforms.
+Founder of **Hinnovation**, developing software solutions and web platforms.
 
 ---
 
@@ -21,26 +21,42 @@ Founder of **@HinnovationBR**, developing software solutions and web platforms.
 
 ## 💼 Experience
 
-Software Developer at RP Info Sistemas
+**Software Developer — RP Info Sistemas**
 
-Working with ERP systems, integrations and backend development using Delphi and Java.
+Working on ERP systems, integrations and backend development using **Delphi and Java**.
 
 ---
 
-# 📌 Featured Projects
+## 📊 GitHub Stats
+
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mathhsilva&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathhsilva&layout=compact&theme=dark)
+
+---
+
+## 🔨 What I'm Building
+
+- Backend APIs with **Spring Boot**
+- SaaS platforms with **Hinnovation**
+- System integrations and ERP solutions
+
+---
+
+## 📌 Featured Projects
 
 ### Product API
-REST API developed with Spring Boot for product management.
+REST API built with **Spring Boot** for product management.
 
-Tech:
+**Tech:**  
 Java • Spring Boot • PostgreSQL • JPA
 
 ---
 
 ### Banking System Simulation
-Java project simulating banking operations like transfers and accounts.
+Java project that simulates banking operations such as transfers and account management.
 
-Tech:
+**Tech:**  
 Java • OOP
 
 ---
@@ -48,12 +64,12 @@ Java • OOP
 ### Pet Management System
 Simple CRUD system for managing pets.
 
-Tech:
+**Tech:**  
 Java • Spring Boot • REST API
 
 ---
 
-# 📈 Currently Studying
+## 📈 Currently Studying
 
 - Microservices Architecture
 - Cloud (AWS)
@@ -62,10 +78,10 @@ Java • Spring Boot • REST API
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-📍 Curitiba - Brazil  
+📍 Curitiba — Brazil  
 💼 Software Developer  
 
 LinkedIn:  
-www.linkedin.com/in/matheus-csilva
+https://www.linkedin.com/in/matheus-csilva
