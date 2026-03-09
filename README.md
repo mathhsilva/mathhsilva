@@ -19,6 +19,14 @@ Founder of **@HinnovationBR**, developing software solutions and web platforms.
 
 ---
 
+## 💼 Experience
+
+Software Developer at RP Info Sistemas
+
+Working with ERP systems, integrations and backend development using Delphi and Java.
+
+---
+
 # 📌 Featured Projects
 
 ### Product API
