@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hello! I'm Matheus Silva
 
-<!--
-**mathhsilva/mathhsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer focused on backend development.
 
-Here are some ideas to get you started:
+I work with enterprise systems, APIs and integrations using Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building scalable backend solutions and SaaS products.
+
+Founder of **@HinnovationBR**, developing software solutions and web platforms.
+
+---
+
+# 🚀 Tech Stack
+
+- Java
+- Spring Boot
+- Delphi
+- SQL (PostgreSQL / MySQL)
+- REST APIs
+- Docker
+- Git
+
+---
+
+# 📌 Featured Projects
+
+### Product API
+REST API developed with Spring Boot for product management.
+
+Tech:
+Java • Spring Boot • PostgreSQL • JPA
+
+---
+
+### Banking System Simulation
+Java project simulating banking operations like transfers and accounts.
+
+Tech:
+Java • OOP
+
+---
+
+### Pet Management System
+Simple CRUD system for managing pets.
+
+Tech:
+Java • Spring Boot • REST API
+
+---
+
+# 📈 Currently Studying
+
+- Microservices Architecture
+- Cloud (AWS)
+- Docker
+- System Design
+
+---
+
+# 📫 Contact
+
+📍 Curitiba - Brazil  
+💼 Software Developer  
+
+LinkedIn:  
+www.linkedin.com/in/matheus-csilva
