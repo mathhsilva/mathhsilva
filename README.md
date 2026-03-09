@@ -10,15 +10,12 @@ Founder of **@HinnovationBR**, developing software solutions and web platforms.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-- Java
-- Spring Boot
-- Delphi
-- SQL (PostgreSQL / MySQL)
-- REST APIs
-- Docker
-- Git
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
